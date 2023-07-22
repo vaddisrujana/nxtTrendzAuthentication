@@ -1,0 +1,38 @@
+.background {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-size: cover;
+  background-color: #ffffff;
+}
+.image {
+  height: 50vh;
+}
+.background2 {
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  padding: 50px;
+  margin-left: 30px;
+}
+.image1 {
+  height: 5vh;
+}
+.button {
+  background-color: #0b69ff;
+  color: #ffffff;
+  width: 11vw;
+  border-radius: 15px;
+  border-width: 0;
+  padding: 10px;
+  margin-top: 10px;
+}
+.logout {
+  background-color: #0967d2;
+  color: #ffffff;
+  border-radius: 5px;
+  border-width: 0;
+  padding: 10px;
+}
+.error {
+  color: red;
+}

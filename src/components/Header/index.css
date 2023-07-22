@@ -1,0 +1,17 @@
+.logo {
+  height: 5vh;
+}
+.header-background {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+}
+.header-background2 {
+  display: flex;
+  justify-content: space-between;
+}
+.para {
+  color: #64748b;
+  margin-right: 10px;
+}
